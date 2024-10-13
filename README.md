@@ -1,2 +1,4 @@
-# dgrpool-pipeline
-Automatic pipeline to retrieve information about DGRP papers.
+# DGRPool src Folder - 2022
+
+## The project: 
+
